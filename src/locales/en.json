@@ -1,0 +1,90 @@
+{
+  "etc-grants-dao": {
+    "title": "POW Summit",
+    "description": "A pluralist conference bringing together the major POW chains.",
+    "date": "Prague, Czech Republic, June 26-27",
+    "apply-now-text": "Contact Us",
+    "apply-now-link": "https://airtable.com/shr3VMqyLd1HX5ws4?prefill_Form%20Language=English",
+    "browse-text": "MoneroKon",
+    "browse-link": "https://monerokon.com"
+  },
+
+  "contents-title": "Contents",
+
+  "overview": {
+    "nav-heading": "Overview",
+
+    "etc-grants-dao": {
+      "nav-heading": "ETC Grants DAO"
+    },
+    "egd-grants-program": {
+      "nav-heading": "EGD Grants Program"
+    }
+  },
+
+  "howToApply": {
+    "nav-heading": "Venues",
+
+    "lafabrika": {
+      "nav-heading": "La Fabrika"
+    },
+    "nvitroblock": {
+      "nav-heading": "Nvitroblock"
+    },
+    "categories": {
+      "nav-heading": "Grant Categories"
+    }
+  },
+
+  "grantsProcess": {
+    "nav-heading": "Ticketing",
+
+    "phases": {
+      "step1": {
+        "nav-heading": "Step 1: Call for Proposals"
+      },
+      "step2": {
+        "nav-heading": "Step 2: Grant Application Submission"
+      },
+      "step3": {
+        "nav-heading": "Step 3: Evaluation/Technical review"
+      },
+      "step4": {
+        "nav-heading": "Step 4: Grants team approval"
+      },
+      "step5": {
+        "nav-heading": "Step 5: Due diligence and KYC/AML requirements"
+      },
+      "step6": {
+        "nav-heading": "Step 6: Grant progress and Milestone review"
+      },
+      "step7": {
+        "nav-heading": "Step 7: Project Launch and Retrospective"
+      }
+    }
+  },
+
+  "resources": {
+    "nav-heading": "Prague",
+
+    "etc-developer-resources": {
+      "navheading": "ETC Developer Resources"
+    },
+    "etc-grants-dao": {
+      "navheading": "ETC Grants DAO"
+    },
+    "faqs": {
+      "navheading": "FAQs"
+    }
+  },
+
+  "wechat": {
+    "back-button": "Back To Website",
+    "paragraph": "Please scan the QR code below to send a friend request and we will add you to the WeChat group"
+  },
+
+  "footer": {
+    "etc_grand_dao": "ETC Grants DAO",
+    "sponsors": "Sponsors"
+  }
+}

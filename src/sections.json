@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "key": "overview",
+      "target": "#overview",
+      "locale": {
+        "en": "Overview",
+        "cn": "概述"
+      }
+    },
+    {
+      "key": "howToApply",
+      "target": "#howToApply",
+      "locale": {
+        "en": "Venues",
+        "cn": "Venues"
+      },
+
+      "subsections": [
+        {
+          "key": "lafabrika",
+          "target": "#howToApply.lafabrika",
+          "locale": {
+            "en": "La Fabrika",
+            "cn": "La Fabrika"
+          }
+        },
+        {
+          "key": "vnitroblock",
+          "target": "#howToApply.vnitroblock",
+          "locale": {
+            "en": "Vnitroblock",
+            "cn": "Vnitroblock"
+          }
+        }
+      ]
+    },
+    {
+      "key": "grantsProcess",
+      "target": "#grantsProcess",
+      "locale": {
+        "en": "Ticketing",
+        "cn": "Ticketing"
+      }
+    },
+    {
+      "key": "resources",
+      "target": "#resources",
+      "locale": {
+        "en": "Prague",
+        "cn": "Prague"
+      }
+    }
+  ]
+}

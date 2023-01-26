@@ -1,0 +1,90 @@
+{
+  "etc-grants-dao": {
+    "title": "ETC Grants DAO",
+    "description": "我们为有前途的项目提供资金，这些项目将振兴以太坊经典生态系统。",
+    "date": "Round 1 is open 31st Jan to 30th Apr 2023.",
+    "apply-now-text": "立即申请",
+    "apply-now-link": "https://airtable.com/shr3VMqyLd1HX5ws4?prefill_Form%20Language=%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+    "browse-text": "MoneroKon",
+    "browse-link": "https://monerokon.com"
+  },
+
+  "contents-title": "目录",
+
+  "overview": {
+    "nav-heading": "概述",
+
+    "etc-grants-dao": {
+      "nav-heading": "ETC Grants DAO"
+    },
+    "egd-grants-program": {
+      "nav-heading": "EGD助款项目"
+    }
+  },
+
+  "howToApply": {
+    "nav-heading": "意见反馈",
+
+    "round1": {
+      "nav-heading": "ETC助款 第一轮"
+    },
+    "suggestions": {
+      "nav-heading": "建议"
+    },
+    "categories": {
+      "nav-heading": "助款类别"
+    }
+  },
+
+  "grantsProcess": {
+    "nav-heading": "ETC助款过程",
+
+    "phases": {
+      "step1": {
+        "nav-heading": "第1步：征求项目提议"
+      },
+      "step2": {
+        "nav-heading": "第2步：提交助款申请"
+      },
+      "step3": {
+        "nav-heading": "第2步：评估/技术审核"
+      },
+      "step4": {
+        "nav-heading": "第4步：助款团队批准"
+      },
+      "step5": {
+        "nav-heading": "第5步：尽职调查和KYC/AML要求"
+      },
+      "step6": {
+        "nav-heading": "第6步：助款进度和里程碑审核"
+      },
+      "step7": {
+        "nav-heading": "第7步：项目启动及回顾"
+      }
+    }
+  },
+
+  "resources": {
+    "nav-heading": "资料",
+
+    "etc-developer-resources": {
+      "navheading": "ETC Developer Resources"
+    },
+    "etc-grants-dao": {
+      "navheading": "ETC Grants DAO"
+    },
+    "faqs": {
+      "navheading": "常见问题"
+    }
+  },
+
+  "wechat": {
+    "back-button": "Back To Website",
+    "paragraph": "Please scan the QR code below to send a friend request and we will add you to the WeChat group"
+  },
+
+  "footer": {
+    "etc_grand_dao": "ETC Grants DAO",
+    "sponsors": "Sponsors"
+  }
+}
